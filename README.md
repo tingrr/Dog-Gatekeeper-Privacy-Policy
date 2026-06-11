@@ -11,20 +11,6 @@
 - **🌍 10 Languages** — English, Chinese (Simplified & Traditional), Japanese, Korean, French, Spanish, Portuguese, Indonesian, Vietnamese
 - **📱 Responsive** — Works seamlessly on all screen sizes
 
-## 🚀 Installation
-
-### From Chrome Web Store
-
-Coming soon...
-
-### Developer Mode (Load Unpacked)
-
-1. Clone or download this repository
-2. Open Chrome and navigate to `chrome://extensions/`
-3. Enable **Developer mode** (toggle in the top-right corner)
-4. Click **"Load unpacked"** and select the `samoyed-gatekeeper` folder
-5. The dog icon will appear in your toolbar — click it to get started!
-
 ## 🎮 How It Works
 
 1. **Click the dog icon** in your browser toolbar to open the settings panel
