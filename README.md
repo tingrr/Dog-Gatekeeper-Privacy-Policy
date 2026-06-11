@@ -11,20 +11,6 @@
 - **🌍 10 Languages** — English, Chinese (Simplified & Traditional), Japanese, Korean, French, Spanish, Portuguese, Indonesian, Vietnamese
 - **📱 Responsive** — Works seamlessly on all screen sizes
 
-## 🎮 How It Works
-
-1. **Click the dog icon** in your browser toolbar to open the settings panel
-2. **Adjust the sliders** — set your daily usage time limit and break duration
-3. **Browse social media** — the dog silently tracks your time in the background
-4. **Time's up!** — a giant pixel Samoyed appears on screen with a countdown timer
-5. **Auto-dismiss** — once the break is over, the dog disappears and you can browse again
-
-### Default Monitored Sites
-
-Twitter/X · YouTube · Facebook · Reddit · Threads · Bluesky · Instagram · TikTok · Weibo · Bilibili · Douyin
-
-You can toggle any site on/off and add custom domains.
-
 ---
 
 ## 🛡️ Privacy Policy
@@ -68,5 +54,22 @@ If you have any questions about this Privacy Policy, you can contact us at: **ti
 MIT License
 
 ---
+
+## 🎮 How It Works
+
+1. **Click the dog icon** in your browser toolbar to open the settings panel
+2. **Adjust the sliders** — set your daily usage time limit and break duration
+3. **Browse social media** — the dog silently tracks your time in the background
+4. **Time's up!** — a giant pixel Samoyed appears on screen with a countdown timer
+5. **Auto-dismiss** — once the break is over, the dog disappears and you can browse again
+
+### Default Monitored Sites
+
+Twitter/X · YouTube · Facebook · Reddit · Threads · Bluesky · Instagram · TikTok · Weibo · Bilibili · Douyin
+
+You can toggle any site on/off and add custom domains.
+
+---
+
 
 Made with ❤️ and 🐕
